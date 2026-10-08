@@ -4,3 +4,4 @@ public class Main {
         System.out.println("This program is used for Task 9.");
         System.out.println("Name: Tim Macdonald");
     }
+}
